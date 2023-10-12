@@ -1,5 +1,5 @@
 # CORDIC_vectoring-rotation
-Synthesizable CORDIC module that works in vectoring or rotation mode depending on passed parameter.
+Synthesizable pipelined CORDIC module that works in vectoring or rotation mode depending on passed parameter.
 
 # Overview
 ![image](https://github.com/mohamedtarek54/CORDIC_vectoring-rotation/assets/25269476/1c0073cd-f97a-459c-9a3c-d372922b9ed6)
